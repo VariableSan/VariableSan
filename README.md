@@ -8,7 +8,7 @@ repo](https://github.com/VariableSan?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/nnursultan" target="blank"
+  <a href="https://linkedin.com/in/nnursultan" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -16,7 +16,7 @@ repo](https://github.com/VariableSan?tab=repositories)
       height="30"
       width="40"
   /></a>
-  <a href="https://t.me/variableSan" target="blank"
+  <a href="https://t.me/variableSan" target="_blank"
     ><img
       align="center"
       src="https://api.iconify.design/logos:telegram.svg"
