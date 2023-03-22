@@ -1,12 +1,11 @@
-<h1 align="center">Helle there 👋, I'm Nursultan</h1>
-<h3 align="center">Frontend developer from Kazakhstan</h3>
+<h1 align="center">Hello there 👋, I'm Nursultan</h1>
+<h3 align="center">FullStack developer from Kazakhstan</h3>
 
-- 🏢 I’m currently working on [MyCar Dealer Management
-System](https://mycarpro.kz/) - 📚 I’m currently learning **Clean Architecture
-Robert Martin Series books** - 👨‍💻 All of my projects are available at [Github
-repo](https://github.com/VariableSan?tab=repositories)
+- 🏢 I’m currently working on [MyCar Dealer Management System](https://mycarpro.kz/)
+- 📚 I’m currently learning **Clean Architecture Robert Martin Series books** 
+- 👨‍💻 All of my projects are available at [Github repo](https://github.com/VariableSan?tab=repositories)
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/nnursultan" target="_blank"
     ><img
@@ -34,7 +33,7 @@ repo](https://github.com/VariableSan?tab=repositories)
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
+## Languages and Tools
 <h4 align="left">Programming Languages:</h4>
 <p align="left">
   <a
