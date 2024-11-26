@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Nursultan</h1>
 <h3 align="center">FullStack developer from Kazakhstan</h3>
 
-- 🏢 I’m currently working on [Red Mad Robot Central Asia](https://redmadrobot.ru/)
-- 📚 I’m currently learning **Clean Architecture Robert Martin Series books** 
 - 👨‍💻 All of my projects are available at [Github repo](https://github.com/VariableSan?tab=repositories)
 
 ## Connect with me
