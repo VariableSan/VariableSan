@@ -37,6 +37,7 @@ I'm a Full Stack Web Developer with over 5 years of experience building scalable
 
 ## 🌐 Links
 
-- 🌍 [Portfolio Website](https://lone-social.com)  
-- 💻 [GitHub](https://github.com/VariableSan)  
-- 💼 [LinkedIn](https://linkedin.com/in/nnursultan)  
+- 🌍 [Portfolio Website](https://lone-social.com)
+- 💻 [GitHub](https://github.com/VariableSan)
+- 💻 [GitHub Organization](https://github.com/VariableSan-Personal)
+- 💼 [LinkedIn](https://linkedin.com/in/nnursultan)
